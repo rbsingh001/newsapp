@@ -1,0 +1,84 @@
+{
+  "status": "ok",
+  "totalResults": 6,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "New York Times"
+      },
+      "author": "Ken Belson",
+      "title": "The Washington Football Team Has Rebranded as the Commanders - The New York Times",
+      "description": "After a two-year search, the team announced a new name and mascot to replace the generic moniker it adopted to replace the longtime name, which was considered a racial slur of Native Americans.",
+      "url": "https://www.nytimes.com/2022/02/02/sports/washington-football-team-commanders.html",
+      "urlToImage": "https://static01.nyt.com/images/2022/02/02/multimedia/02washington-name/02washington-name-facebookJumbo.jpg",
+      "publishedAt": "2022-02-02T14:08:48Z",
+      "content": "Color is a powerful measure of loyalty and indicator of a brand, OHara said. The teams colors are unique, and its who they are, he said.\r\nHe said the name Commanders dovetails with the significant mi… [+1665 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Guinea-Bissau: Many dead after coup attempt, president says - BBC News",
+      "description": "President Embaló says he and his cabinet survived five hours under fire from heavy weaponry.",
+      "url": "https://www.bbc.com/news/world-africa-60220701",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/58E6/production/_123085722_mediaitem123085721.jpg",
+      "publishedAt": "2022-02-02T09:08:26Z",
+      "content": "Image caption, Soldiers could be seen patrolling the government palace area\r\nThe president of Guinea-Bissau has said he survived a coup attempt after being under heavy gunfire for five hours.\r\nUmaro … [+3356 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Nathan Hodge, Uliana Pavlova and Darya Tarasova, CNN",
+      "title": "Vladimir Putin says the West has 'ignored' Russia's key concerns over Ukraine - CNN",
+      "description": "Russian President Vladimir Putin said Tuesday that his government was studying the responses from the United States and NATO to his security demands related to Ukraine but that it was clear the Kremlin's main complaints \"had been ignored.\"",
+      "url": "https://www.cnn.com/2022/02/01/europe/vladimir-putin-west-ignored-russia-concerns-intl/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220201131843-03-putin-orban-020122-super-tease.jpg",
+      "publishedAt": "2022-02-02T08:11:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "axios",
+        "name": "Axios"
+      },
+      "author": "Erin Doherty",
+      "title": "Over a dozen HBCUs get bomb threats on first day of Black History Month - Axios",
+      "description": "\"The threats against HBCUs today demand a response.\"",
+      "url": "https://www.axios.com/hbcu-bomb-threats-black-history-month-163b6c3c-5d97-4d8c-9b61-1f72e5301f92.html",
+      "urlToImage": "https://images.axios.com/PtszwXkJ9-osdQw39FKrxlp889U=/0x331:4410x2812/1366x768/2022/02/01/1643742163365.jpg",
+      "publishedAt": "2022-02-02T04:50:48Z",
+      "content": "More than a dozen historically Black colleges and universities on Tuesday closed campus or cancelled classes due to bomb threats on the first day of Black History Month. \r\nThe big picture: It was the… [+2720 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WMUR Manchester"
+      },
+      "author": null,
+      "title": "Using melatonin for sleep is on the rise, study says, despite potential health harms - WMUR Manchester",
+      "description": "More and more adults are taking over-the-counter melatonin to get to sleep, and some of them may be using it at dangerously high levels, a new study has found.",
+      "url": "https://www.wmur.com/article/using-melatonin-for-sleep-is-on-the-rise-study-says-despite-potential-health-harms/38952444",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-77b52477836fe38c05a045c7442c2ea3-h-be2a49cd3ec7d673b93f5ded604495b6-1643762797.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+      "publishedAt": "2022-02-02T00:57:00Z",
+      "content": "More and more adults are taking over-the-counter melatonin to get to sleep, and some of them may be using it at dangerously high levels, a new study has found.\r\nWhile overall use among the United Sta… [+6320 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Jimmy Garoppolo: 'I've Had a Great Time with the 49ers Organization' - San Francisco 49ers",
+      "description": "Garoppolo reflected on his performance during the 2021 season, discussed how his relationship with Trey Lance has grown throughout the year and congratulated...",
+      "url": "https://www.youtube.com/watch?v=2ZcoMrC0VUQ",
+      "urlToImage": "https://i.ytimg.com/vi/2ZcoMrC0VUQ/hqdefault.jpg",
+      "publishedAt": "2022-02-02T00:19:15Z",
+      "content": null
+    }
+  ]
+}
